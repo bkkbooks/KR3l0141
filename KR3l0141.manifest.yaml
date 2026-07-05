@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3l0141_001.yaml, hash: 'sha256:96b7e43327c2f465d37d3a6c45ed2a859bb88a9990779814e1f14f0fcc5c9e71'}
+  - {seq: 1, filename: KR3l0141_001.yaml, hash: 'sha256:d02320b9a9e81acbbcd95a097a08743bd50b7126c00d7b389f29ec74210faf4c'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3l0141_001.markers.yaml, hash: 'sha256:16ba79f3ac6c99a1460f0b603f8ae84b58b49103a8cfa6ae173f649a3e1d6a96'}
+  - {seq: 1, role: markers, filename: assets/KR3l0141_001.markers.yaml, hash: 'sha256:7f91f6a89e071c7fbe72659319e1c0d56c5be43bc1a1ad9f87c9ab18138d7dba'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 天上玉女記
   type: section
   level: 1
-hash: sha256:6e8c823d678756eb128bc299451194ecd4693e444dea79d29fa95f63880895c7
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:5036a4515dd674d7d75ad1892fe907a077f0b118b65832f1b4167207b02d3f1b
