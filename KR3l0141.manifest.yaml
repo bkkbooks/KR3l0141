@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3l0141/v1
 canonical_location: https://kanripo.org/bkk/KR3l0141/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 天上玉女記
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3l0141_001.yaml, hash: 'sha256:d02320b9a9e81acbbcd95a097a08743bd50b7126c00d7b389f29ec74210faf4c'}
+  - {seq: 1, filename: KR3l0141_001.yaml, hash: 'sha256:ad728c92571c74a01fc3f5df2491a5fe3e3d76f5732744b643ba914277e1682d'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3l0141_001.markers.yaml, hash: 'sha256:7f91f6a89e071c7fbe72659319e1c0d56c5be43bc1a1ad9f87c9ab18138d7dba'}
+  - {seq: 1, role: markers, filename: assets/KR3l0141_001.markers.yaml, hash: 'sha256:1059625ad7c730978c96c2c4eef92d663d8f065eec913be88563acbb5898eb22'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 天上玉女記
   type: section
   level: 1
-hash: sha256:5036a4515dd674d7d75ad1892fe907a077f0b118b65832f1b4167207b02d3f1b
+hash: sha256:01b672570f338b738f86e73639d6da37f7d7a80ed37c806c8f2ff9d793e2e47c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
